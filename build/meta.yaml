@@ -3,7 +3,7 @@ package:
   version: "0.9.5"
 
 source:
-  git_url: "https://github.com/yijunyu/srcslice"
+  git_url: "https://github.com/yijunyu/srcsax"
   git_rev: "conda-osx"
 
 extra:
@@ -14,11 +14,7 @@ requirements:
   host:
     - srcml
 
-test:
-  imports:
-    -
-
 about:
-  home: "https://github.com/yijunyu/srcslice"
+  home: "https://github.com/yijunyu/srcsax"
   license: "GNU GENERAL PUBLIC LICENSE"
-  license_file: srcslice/README
+  license_file: README
